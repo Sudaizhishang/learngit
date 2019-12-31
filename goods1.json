@@ -1,0 +1,41 @@
+{
+  "goods1":[
+    {
+      "name":"扫地机器人",
+      "price":"280",
+      "source": "../images/list/watch.jpg"
+    },
+    {
+      "name":"空气净化器",
+      "price":"180"
+    },
+    {
+      "name":"a",
+      "price":"180"
+    },
+    {
+      "name":"电风扇",
+      "price":"20"
+    },
+    {
+      "name":"空气加湿器",
+      "price":"80"
+    },
+    {
+      "name":"吸尘器",
+      "price":"800"
+    },
+    {
+      "name":"除螨仪",
+      "price":"820"
+    },
+    {
+      "name":"豆浆机",
+      "price":"180"
+    },
+    {
+      "name":"咖啡机",
+      "price":"280"
+    }
+  ]
+}

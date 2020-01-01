@@ -7,35 +7,38 @@
     },
     {
       "name":"空气净化器",
-      "price":"180"
-    },
-    {
-      "name":"a",
-      "price":"180"
+      "price":"180",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577893921306&di=2d9ac537652160bb1c9fac8e938bbb27&imgtype=0&src=http%3A%2F%2Fimg.alicdn.com%2Fimgextra%2Fi4%2F1906273713%2FTB2NDO0dkfb_uJkHFJHXXb4vFXa_%2521%25211906273713-0-beehive-scenes.jpg"
     },
     {
       "name":"电风扇",
-      "price":"20"
+      "price":"20",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577894015448&di=7131c6b042912023d3b6c9bde2e1d7c2&imgtype=0&src=http%3A%2F%2Fd8.yihaodianimg.com%2FN07%2FM07%2FF3%2FDD%2FChEbvFUIJzOAZ6RoAAaWYIYJb4M22901_600x600.jpg"
     },
     {
       "name":"空气加湿器",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577894015448&di=7131c6b042912023d3b6c9bde2e1d7c2&imgtype=0&src=http%3A%2F%2Fd8.yihaodianimg.com%2FN07%2FM07%2FF3%2FDD%2FChEbvFUIJzOAZ6RoAAaWYIYJb4M22901_600x600.jpg"
     },
     {
       "name":"吸尘器",
-      "price":"800"
+      "price":"800",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577894184101&di=fe9d2e241bc931bda1c26054d23a6f1f&imgtype=0&src=http%3A%2F%2Fwww.xgdq.com%2Fpublic%2Fimages%2Fa3%2Fb3%2Fa7%2F5f71790e2c6aec767cef5d882e762e98dca09a28.jpg"
     },
     {
       "name":"除螨仪",
-      "price":"820"
+      "price":"820",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577894226018&di=220d14fdbdf234220abb7af561f7f7c2&imgtype=0&src=http%3A%2F%2Fec8.images-amazon.com%2Fimages%2FI%2F51eJad59BAL._SL1000_.jpg"
     },
     {
       "name":"豆浆机",
-      "price":"180"
+      "price":"180",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577894269167&di=42d475c871f07aa22094810c54f8250b&imgtype=0&src=http%3A%2F%2Fimg.alicdn.com%2Fimgextra%2Fi3%2F2616970884%2FTB2BiTqagIlyKJjSZFqXXX9xpXa_%2521%25212616970884-0-beehive-scenes.jpg"
     },
     {
       "name":"咖啡机",
-      "price":"280"
+      "price":"280",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577894316260&di=bf7f951a059eba86e4356333d2751cb9&imgtype=jpg&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D2804231062%2C2650499737%26fm%3D214%26gp%3D0.jpg"
     }
   ]
 }

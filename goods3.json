@@ -2,11 +2,13 @@
   "goods3":[
     {
       "name":"饼干",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900565912&di=b4770ad38fd0bda8c24a036f548db2c7&imgtype=0&src=http%3A%2F%2Fwww.cnnb.com.cn%2Fpic%2F003%2F001%2F790%2F00300179003_85956d12.jpg"
     },
     {
       "name":"面包",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900618189&di=0fb1d326ae6a81b89cd3828cfee05628&imgtype=0&src=http%3A%2F%2Fwww.360changshi.com%2Fuploadfile%2F2016%2F0307%2F20160307070538437.jpg"
     }
   ]
 }

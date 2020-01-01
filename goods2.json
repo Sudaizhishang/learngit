@@ -2,39 +2,48 @@
   "goods2":[
     {
       "name":"芒果",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900004172&di=f72626824a09f6a4bfc471f29c75b811&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fgd%2Fpics%2Fhv1%2F232%2F24%2F1875%2F121928227.png"
     },
     {
       "name":"苹果",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900065260&di=48ab6ba90806c4fd6e29c433632be793&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fln%2Fpics%2Fhv1%2F150%2F181%2F1371%2F89195580.jpg"
     },
     {
       "name":"火龙果",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900135361&di=83839d0df57a1d7d12cb9d7683bfd729&imgtype=0&src=http%3A%2F%2Fa2.att.hudong.com%2F63%2F84%2F01300541915936137454845547044_s.jpg"
     },
     {
       "name":"香蕉",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900192753&di=4424e596ba824bd9187d93f810af3952&imgtype=0&src=http%3A%2F%2Fpic3.womai.com%2Fupload%2F601%2F603%2F358812%2F378408%2F495233%2F495236%2F604558%2F604558_6_pic500_5166.jpg"
     },
     {
       "name":"桔子",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900238475&di=eb8e25d78406b1aa52fabbc522b2d7a5&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Felement_origin_min_pic%2F16%2F11%2F07%2Fab6e055248a32b919efc0fbe645050d3.jpg"
     },
     {
       "name":"橙子",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900296372&di=295a4e7e07e4acfa18145fb7d9410f9b&imgtype=0&src=http%3A%2F%2Fwww.360changshi.com%2Fuploadfile%2F2015%2F1110%2F20151110033558999.jpg"
     },
     {
       "name":"百香果",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900342366&di=ed2475dc64516b39c847c1d242729ea8&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fcq%2Ftransform%2F41%2Fw508h333%2F20180704%2FFrk_-hevauxk0965912.jpg"
     },
     {
       "name":"李子",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900377472&di=2a12e4e9eb24c788ca2fea3e2fee2662&imgtype=0&src=http%3A%2F%2Fstatic.1sapp.com%2Fimage%2Fp%2F2017%2F04%2F01%2F1491055244168538.jpg"
     },
     {
       "name":"蓝莓",
-      "price":"80"
+      "price":"80",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577900459561&di=f38357ebb0ed01720c3f58c2d4d53e68&imgtype=0&src=http%3A%2F%2Fwww.leha.com%2FUploads%2F0724%2F1bb8ca3ed96ce.jpg"
     }
   ]
 }

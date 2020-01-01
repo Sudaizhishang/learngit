@@ -2,7 +2,8 @@
   "goods1":[
     {
       "name":"扫地机器人",
-      "price":"280"
+      "price":"280",
+      "source":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1577892972540&di=65cdc5aec3f6cda9fa38e42065a81f9f&imgtype=0&src=http%3A%2F%2Fnres.ingdan.com%2Fuploads%2F20161128%2F1480318949668795.png"
     },
     {
       "name":"空气净化器",
